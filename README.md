@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/></a>&nbsp
 </p>
 
+<div align="center">
 
 <!--
 따라할 사람
@@ -58,7 +59,10 @@ Here are some ideas to get you started:
 
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChicagoPark&hide=prs&count_private=true&show_icons=true&theme=react)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChicagoPark&show_icons=true&theme=synthwave)
 <!--Stats Info https://github.com/anuraghazra/github-readme-stats-->
+
+
+</div>
