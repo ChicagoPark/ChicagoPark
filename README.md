@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Shark&color=gradient&height=200&section=header&text=Chicago%20Laboratory&fontSize=80)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChicagoPark%2FChicagoPark%2F&count_bg=%23687063&title_bg=%23CCFB93&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### 👋 Here is Chicago Park 👋
+
+<h2 align="center">👋 Here is Chicago Park 👋 </h2>
 
 
+<h2 align="center"> 🇺🇸 Skills 🇰🇷 </h2>
 
-### Skills
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,11 +22,16 @@
 
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+***
+
 <!--
 따라할 사람
 https://github.com/localryu#-im-hyunjee-ryu-
 배지모음
 https://github.com/Ileriayo/markdown-badges
+표만들기
+https://devinlife.com/howto%20github%20pages/markdown-syntax/
 
 [![PT](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
