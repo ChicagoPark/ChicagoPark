@@ -26,25 +26,18 @@
 </p>
 
 <div align="center">
+  
+  
+
+## ⚡ Research Interest ⚡
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine Learning-blueviolet?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Computer Vision-ff69b4?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Self Driving-9cf?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Artificial Intelligence-informaitional?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+</p>
 
 <!--
-따라할 사람
-https://github.com/localryu#-im-hyunjee-ryu-
-배지모음
-https://github.com/Ileriayo/markdown-badges
-표만들기
-https://devinlife.com/howto%20github%20pages/markdown-syntax/
-
-헤더 정보
-https://github.com/kyechan99/capsule-render#wave
-
-[![PT](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>PyTorch</title><path d="M12.005 0L4.952 7.053a9.865 9.865 0 000 14.022 9.866 9.866 0 0014.022 0c3.984-3.9 3.986-10.205.085-14.023l-1.744 1.743c2.904 2.905 2.904 7.634 0 10.538s-7.634 2.904-10.538 0-2.904-7.634 0-10.538l4.647-4.646.582-.665zm3.568 3.899a1.327 1.327 0 00-1.327 1.327 1.327 1.327 0 001.327 1.328A1.327 1.327 0 0016.9 5.226 1.327 1.327 0 0015.573 3.9z"/></svg>
-
-<img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>
-**ChicagoPark/ChicagoPark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -58,9 +51,21 @@ Here are some ideas to get you started:
 -->
 
 
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChicagoPark&hide=prs&count_private=true&show_icons=true&theme=react)
 
+<!--
+## 📌 Pinned repos 📌
+색깔고르기 : https://shields.io/#your-badge
+따라할 사람
+https://github.com/localryu#-im-hyunjee-ryu-
+배지모음
+https://github.com/Ileriayo/markdown-badges
+표만들기
+https://devinlife.com/howto%20github%20pages/markdown-syntax/
+
+헤더 정보
+https://github.com/kyechan99/capsule-render#wave
+-->
 
 <!--Stats Info https://github.com/anuraghazra/github-readme-stats-->
 
