@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Shark&color=gradient&height=200&section=header&text=Chicago%20Laboratory&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Shark&color=gradient&height=200&section=header&text=Chicago%20Laboratory&fontSize=80)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChicagoPark%2FChicagoPark%2F&count_bg=%23687063&title_bg=%23CCFB93&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ### 👋 Here is Chicago Park 👋
 
@@ -22,6 +22,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 <!--
+따라할 사람
+https://github.com/localryu#-im-hyunjee-ryu-
 배지모음
 https://github.com/Ileriayo/markdown-badges
 
