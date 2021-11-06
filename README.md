@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=Shark&color=gradient&height=200&section=header&text=Chicago%20Laboratory&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=Chicago%20Laboratory&fontSize=80&fontAlignY=39)
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FChicagoPark%2FChicagoPark%2F&count_bg=%23687063&title_bg=%23CCFB93&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <h2 align="center">👋 Here is Chicago Park 👋 </h2>
@@ -32,6 +33,9 @@ https://github.com/localryu#-im-hyunjee-ryu-
 https://github.com/Ileriayo/markdown-badges
 표만들기
 https://devinlife.com/howto%20github%20pages/markdown-syntax/
+
+헤더 정보
+https://github.com/kyechan99/capsule-render#wave
 
 [![PT](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
