@@ -31,11 +31,11 @@
 
 ## ⚡ Research Interest ⚡
 <p align="center">
-  <img src="https://img.shields.io/badge/Reinforcement Learning-ff69b4?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Reinforcement Learning-F37626?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
   <img src="https://img.shields.io/badge/Deep Learning-blueviolet?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
   <img src="https://img.shields.io/badge/Computer Vision-ff69b4?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
   <img src="https://img.shields.io/badge/Self Driving-9cf?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Artificial Intelligence-ff69b4?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Artificial Intelligence-EE4C2C?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
 </p>
 
 <!--
