@@ -3,6 +3,8 @@
 
 <h2 align="center">👋 Here is Chicago Park 👋 </h2>
 
+![KaAI명함](https://user-images.githubusercontent.com/73331241/152084015-c6a94d56-ea65-4e67-97a8-ba4cab6033ff.jpg)
+
 
 <h2 align="center"> 🇺🇸 Skills 🇰🇷 </h2>
 <p align="center">
