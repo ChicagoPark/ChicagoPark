@@ -32,6 +32,7 @@
 
 ## ⚡ Research Interest ⚡
 <p align="center">
+  <img src="https://img.shields.io/badge/Convex Optimization-9cf?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
   <img src="https://img.shields.io/badge/Reinforcement Learning-F37626?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
   <img src="https://img.shields.io/badge/Deep Learning-blueviolet?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
   <img src="https://img.shields.io/badge/Computer Vision-ff69b4?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
