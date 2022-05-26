@@ -3,7 +3,7 @@
 
 <h2 align="center">👋 Here is Chicago Park 👋 </h2>
 
-![KaAI명함](https://user-images.githubusercontent.com/73331241/152084015-c6a94d56-ea65-4e67-97a8-ba4cab6033ff.jpg)
+
 
 
 <h2 align="center"> 🇺🇸 Skills 🇰🇷 </h2>
@@ -68,6 +68,9 @@ https://devinlife.com/howto%20github%20pages/markdown-syntax/
 
 헤더 정보
 https://github.com/kyechan99/capsule-render#wave
+
+![KaAI명함](https://user-images.githubusercontent.com/73331241/152084015-c6a94d56-ea65-4e67-97a8-ba4cab6033ff.jpg)
+
 -->
 
 <!--Stats Info https://github.com/anuraghazra/github-readme-stats-->
