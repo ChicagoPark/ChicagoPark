@@ -32,12 +32,12 @@
 
 ## ⚡ Research Interest ⚡
 <p align="center">
-  <img src="https://img.shields.io/badge/Convex Optimization-9cf?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Medical AI-F37626?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Deep Learning-blueviolet?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Reinforcement Learning-ff69b4?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Computer Vision-9cf?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Artificial Intelligence-EE4C2C?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Medical AI-F36379?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unsupervised Learning-F2BE28?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Self supervised Learning-D3563C?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Convex Optimization-5EF03A?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Reinforcement Learning-3AF0D4?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Computer Vision-876AD3?style=for-the-badge&logo=Roundcube&logoColor=pink"/></a>&nbsp
 </p>
 
 <!--
